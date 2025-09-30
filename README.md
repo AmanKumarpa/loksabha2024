@@ -7,7 +7,7 @@ The repository includes:
 - A **Python script** to scrape official election results from the Election Commission of India website.  
 - A **Power BI dashboard (.pbix file)** for interactive exploration of results and insights.  
 
-🔗 **Dashboard Preview:** [View on Loom](https://www.loom.com/share/f2100d0487374b1eb179748fb28aa7e3)  
+
 
 ---
 
@@ -50,4 +50,17 @@ The analysis derived **10 key insights** from the 2024 Lok Sabha Election result
 ---
 
 ## 📂 Repository Structure  
+
+.
+├── data/ # Scraped CSV files
+├── scripts/ # Python scraping script
+├── dashboard/ # Power BI (.pbix) file
+├── README.md # Project documentation
+
+---
+
+## 📬 Contact  
+If you have any questions or suggestions, feel free to reach out.  
+
+
 
