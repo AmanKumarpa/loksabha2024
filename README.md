@@ -51,12 +51,13 @@ The analysis derived **10 key insights** from the 2024 Lok Sabha Election result
 
 ## 📂 Repository Structure  
 
-├── data / # Scraped CSV files
-├── scripts / # Python scraping script
-├── dashboard / # Power BI (.pbix) file
+
+├── data/ # Scraped CSV files
+├── scripts/ # Python scraping script
+├── dashboard/ # Power BI (.pbix) file
 ├── README.md # Project documentation
 
-Copy code
+
 
 ## 📬 Contact  
 If you have any questions or suggestions, feel free to reach out.  
